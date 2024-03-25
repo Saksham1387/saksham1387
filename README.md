@@ -1,11 +1,13 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ## 🚀 About Me
-I am Saksham
-
-
-
-
+👨‍💻 Web wizard and AI alchemist
+🧠 Currently on a quest for BTech in AI
+🌟 Obsessed with infusing AI magic into real-world projects
+🔬 Always tinkering with AI models to make them kickass for humanity
+🚀 Thrives on the adrenaline of innovation in the AI realm
+💡 Master of crafting scalable and sleek systems
+💬 Let's team up and conjure some game-changing AI solutions!
 
 ### Languages
 
