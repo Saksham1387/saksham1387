@@ -1,13 +1,13 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ## 🚀 About Me
-👨‍💻 Web wizard and AI alchemist
-🧠 Currently on a quest for BTech in AI
-🌟 Obsessed with infusing AI magic into real-world projects
-🔬 Always tinkering with AI models to make them kickass for humanity
-🚀 Thrives on the adrenaline of innovation in the AI realm
-💡 Master of crafting scalable and sleek systems
-💬 Let's team up and conjure some game-changing AI solutions!
+- 👨‍💻 Web wizard and AI alchemist
+- 🧠 Currently on a quest for BTech in AI
+- 🌟 Obsessed with infusing AI magic into real-world projects
+- 🔬 Always tinkering with AI models to make them kickass for humanity
+- 🚀 Thrives on the adrenaline of innovation in the AI realm
+- 💡 Master of crafting scalable and sleek systems
+- 💬 Let's team up and conjure some game-changing AI solutions!
 
 ### Languages
 
@@ -15,7 +15,7 @@
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Front-End Development
+### FrameWorks I Know
 
 ![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
