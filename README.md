@@ -1,5 +1,7 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
+[![An image of @saksham1387's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saksham1387)](https://holopin.io/@saksham1387)
+
 ## 🚀 About Me
 - 👨‍💻 Web wizard and AI alchemist
 - 🧠 Currently on a quest for BTech in AI
